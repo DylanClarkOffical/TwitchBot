@@ -51,7 +51,7 @@
 | !java           | 
 
 
-| Socials       | Socials       |                  
+| Socials:       |Links to socials|                  
 | ------------- |:-------------:|
 | !social       |               | 
 | !instagram    | [link to Instagram](https://www.instagram.com/rigidstructure/?hl=en)|
@@ -61,14 +61,14 @@
 | !ctt          | [link to CTT](https://www.instagram.com/rigidstructure/?hl=en)|    
 
 
-| Calculator    | 
+| Calculator:   | 
 | ------------- |
 | !add          | 
 | !multipy      | 
 | !divide       | 
 
 
-| Bat cave      | 
+| Bat cave:     | 
 | ------------- |
 | !bat          | 
 | !batnamechange| 
@@ -86,16 +86,16 @@
 
 ###### Broadcaster commands:
 
-| Tables        | 
+| Tables:       | 
 | ------------- |
-| !raid,        |
-| !shout,       |
+| !raid         |
+| !shout        |
 | !breakdance   | 
 
 
 ###### User specific commands:
 
-| User specific | 
+| User specific:| 
 | ------------- |
 | !lick         |
 | !timemeout    |
@@ -105,7 +105,7 @@
 
 **Automated functions:**
 
-| Done by the bot automatically| 
+| Done by the bot automatically:| 
 | ------------- |
 |Follower notification|
 |Subscriber notification|
