@@ -51,7 +51,7 @@
 | !java           | 
 
 
-| Socials:       |Links to socials|                  
+| Socials:       |Links to socials: |                  
 | ------------- |:-------------:|
 | !social       |               | 
 | !instagram    | [link to Instagram](https://www.instagram.com/rigidstructure/?hl=en)|
