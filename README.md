@@ -53,12 +53,12 @@
 
 | Socials:      |Links to socials:|                  
 | ------------- |:-------------:|
-| !social       |               | 
+| !social       | Shows all Ridgure's social media accounts| 
 | !instagram    | [link to Instagram](https://www.instagram.com/rigidstructure/?hl=en)|
 | !facebook     | [link to Facebook](https://www.facebook.com/ridgidstructure)|    
 | !twitter      | [link to Twitter](https://twitter.com/ridgure)|  
 | !discord      | [link to Discord](https://discord.com/invite/yddBmCE)|  
-| !ctt          |               |
+| !ctt          | Generates a custom Click to Tweet link when sent in the twitch chat|
 
 
 | Calculator:   | 
